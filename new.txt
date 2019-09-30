@@ -1,0 +1,3 @@
+I am typing a sentence.
+This is another one.
+Now I'm done.
